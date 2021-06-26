@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315770896853",
+    "project_id": "peacehouseapp",
+    "storage_bucket": "peacehouseapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315770896853:android:b3ab0319f7a3c51d01fd5c",
+        "android_client_info": {
+          "package_name": "com.example.peacehouse_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315770896853-cdl1lrqo2ejtpptj1sf3an4k6s068ev3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDXKXeeYd2bJMUtXpBvZkkNdOIq39DjEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315770896853-cdl1lrqo2ejtpptj1sf3an4k6s068ev3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
